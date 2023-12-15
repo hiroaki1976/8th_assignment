@@ -70,3 +70,17 @@ ul li {
     font-size: 24px;
     padding: 10px;
 }
+
+/* kanri.php */
+table {
+    border-collapse:  collapse; /* セルの線を重ねる */
+}
+
+th,td {
+    border: solid 1px;
+    padding: 5px 15px 5px 15px;
+}
+
+th {
+    background-color: lightblue;
+}
